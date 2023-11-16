@@ -1,1 +1,1 @@
-# Face-Mask-Detaction
+# Face Mask Detection
